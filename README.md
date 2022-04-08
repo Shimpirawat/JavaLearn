@@ -1,1 +1,1 @@
-# JavaLearn
+# Java basics.
